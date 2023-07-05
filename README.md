@@ -1,6 +1,6 @@
 # Исследование надежности заёмщиков
 
-9. user_behavior.ipynbhttps://github.com/Alena181/bank_customer/blob/2a7881830ec30736ae80118510605bee15ead300/2.%20bank_customer_reliability_research.ipynb
+9. user_behavior.ipynb https://github.com/Alena181/bank_customer/blob/2a7881830ec30736ae80118510605bee15ead300/2.%20bank_customer_reliability_research.ipynb
 
 ## Задача 
 
