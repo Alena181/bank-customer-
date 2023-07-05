@@ -1,4 +1,4 @@
-# Исследование надежности заёмщиков
+# Исследование надежности заёмщиковhttps://github.com/Alena181/bank_customer/blob/2a7881830ec30736ae80118510605bee15ead300/2.%20bank_customer_reliability_research.ipynb
 
 ## Задача 
 
